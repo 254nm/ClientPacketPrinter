@@ -1,0 +1,16 @@
+[
+    {
+        "modid": "ClientPacketPrinter",
+        "name": "ClientPacketPrinter",
+        "description": "ClientPacketPrinter",
+        "version": "${version}",
+        "mcversion": "${mcversion}",
+        "url": "",
+        "updateUrl": "",
+        "authorList": ["254n_m"],
+        "credits": "",
+        "logoFile": "",
+        "screenshots": [],
+        "dependencies": []
+    }
+]
